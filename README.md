@@ -4,3 +4,4 @@ The Project Management tool with react and express is a comprehensive project ma
 ## Setup instruction
 
   - Go to /frontend directory for frontend setup and run `npm install`
+![Screenshot 2025-02-23 142337](https://github.com/user-attachments/assets/747b0ce4-dacb-4ee6-a9cc-8538e18516fa)
