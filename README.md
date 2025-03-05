@@ -5,6 +5,7 @@
 ## Setup instruction
 
 - Step 1: install dependencies/node_module
+
   Go to /backend directory for backend setup and run `npm install`
 
   Go to /frontend directory for frontend setup and run `npm install`
